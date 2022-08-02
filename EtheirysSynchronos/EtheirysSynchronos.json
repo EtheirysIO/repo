@@ -2,7 +2,7 @@
   "Author": "Lykos",
   "Name": "Etheirys Synchronos",
   "InternalName": "EtheirysSynchronos",
-  "AssemblyVersion": "0.2.13.1",
+  "AssemblyVersion": "0.2.13.2",
   "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically. Built upon Mare pre Discord Auth.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/EtheirysIO/client",
