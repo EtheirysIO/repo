@@ -10,7 +10,7 @@
         "Tags": [
           "customization"
         ],
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 7,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/EtheirysIO/repo/master/EtheirysSynchronos/images/icon.png",
         "Punchline": "Let others see you as you see yourself.",
